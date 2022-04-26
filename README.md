@@ -1,4 +1,4 @@
-# Strangereal1.github.io
+# GROUP23_Twelve-Constellations
 
 ## How to use
 
