@@ -1,3 +1,0 @@
-Lin:
-
-From reading the provided context, I gained a lot of new perspectives on AR. One is that creating an AR sculpture artwork isn't just about building a sculptured artwork visually in virtual space. The most important is that the artwork has to have some connection to the real world. The artwork needs to contain a deeper meaning that reflects real-world issues, such as social conflicts, international issues, recent news, and other content that will resonate with the viewer's thoughts. The application of this idea to our group project is that we need to consider not only the aesthetic aspect but also how we can introduce this deeper content into our project. In brief, we need to send some messages to the audience through this artwork.
