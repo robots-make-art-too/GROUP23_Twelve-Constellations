@@ -9,8 +9,8 @@
 ### On the home page you will see the twelve constellations.
 
 <div style='display: flex'>
-<img src="docs/website/assets/screenshot_1.jpeg" width = "300"  alt="s" align=center  style='margin-right:30px'/>  
-<img src="docs/website/assets/screenshot_2.jpeg" width = "300"  alt="s" align=center />  
+<img src="docs/website/assets/screenshotS_1.jpeg" width = "300"  alt="s" align=center  style='margin-right:30px'/>  
+<img src="docs/website/assets/screenshotS_2.jpeg" width = "300"  alt="s" align=center />  
 </div>
 
 ### Use your phone's camera scan the pictures below.
@@ -41,7 +41,6 @@
 </div>
 
 ### Find a 3D model.
-aa
 <div style='display: flex'>
 <img src="docs/website/assets/ar_scene.gif" width = "300" alt="" align=center />
 </div>
