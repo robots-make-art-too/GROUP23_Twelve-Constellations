@@ -1,4 +1,4 @@
-# ![GROUP23_Twelve-Constellations](https://robots-make-art-too.github.io/GROUP23_Twelve-Constellations/docs/website)
+# [GROUP23_Twelve-Constellations](https://robots-make-art-too.github.io/GROUP23_Twelve-Constellations/docs/website)
 
 ## How to use
 
